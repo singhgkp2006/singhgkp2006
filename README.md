@@ -1,8 +1,6 @@
 ## Hi 👋, I'm Supriya Singh
 <h3 align="center">A passionate full stack developer from India</h3>
 
-**singhgkp2006/singhgkp2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
