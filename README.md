@@ -5,7 +5,6 @@
 
 ## 👩‍💻 About Me
 
-- 📈 I’m currently working on **Data Analytics Projects**
 - 🌱 I’m currently learning **Python, SQL, Power BI & Excel**
 - 🤝 I’m looking to collaborate on **Data Analysis & Visualization Projects**
 - 💬 Ask me about **Excel, SQL, Python, Power BI**
