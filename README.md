@@ -14,10 +14,6 @@
 
 ## 🛠️ Skills & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
 - 📊 Power BI
 - 📉 Tableau
 - 📑 Excel
