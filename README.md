@@ -14,17 +14,17 @@
 ## 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/python.svg" height="50" alt="python logo"  />&nbsp;&nbsp;
-
+  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/python.svg" height="50" alt="python logo"  />
+  <img width="10" />
   <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" height="50" alt="Excel logo"  />
-
+  <img width="10" />
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="50" alt="Power BI logo"  />
-
+  <img width="10" />
   <img src="https://github.com/xandemon/developer-icons/blob/main/icons/vscode.svg" height="50" alt="VS Code logo"  />
- 
+  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="50" alt="GitHub logo"  />
-  
+  <img width="10" />
   <img src="https://github.com/xandemon/developer-icons/blob/main/icons/html5.svg" height="50" alt="html5 logo"  />
-
+  <img width="10" />
   <img src="https://github.com/xandemon/developer-icons/blob/main/icons/css3.svg" height="50" alt="css logo"  />
 </div>
