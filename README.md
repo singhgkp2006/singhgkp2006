@@ -25,7 +25,7 @@
   <img width="15" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="45" alt="GitHub logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" alt="html5 logo"  />
+  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/html5.svg" height="50" alt="html5 logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css logo"  />
+  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/css3.svg" height="50" alt="css logo"  />
 </div>
