@@ -14,7 +14,7 @@
 ## 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/python.svg" height="50" alt="python logo"  />&nbsp;
+  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/python.svg" height="50" alt="python logo"  />&nbsp;&nbsp;
 
   <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" height="50" alt="Excel logo"  />
 
