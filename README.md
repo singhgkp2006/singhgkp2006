@@ -20,5 +20,7 @@
 - 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
 - 🗄️ SQL
 - 📚 Data Cleaning & Visualization
+- 
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="45" height="45"/>
 
 ---
