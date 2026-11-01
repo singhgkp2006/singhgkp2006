@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supriya Singh</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Data into Insights 📊</h3>
+<p align="center">I work with data: cleaning it, digging through it, and turning it into
+dashboards people can actually use. Right now I'm focused on landing my
+first data analyst role.</p>
 
 ---
 
@@ -11,20 +13,14 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## Tools I use
 
-<div align="center">
-  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/python.svg" height="50" alt="python logo"  />
-  <img width="10" />
-  <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" height="50" alt="Excel logo"  />
-  <img width="10" />
-  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="50" alt="Power BI logo"  />
-  <img width="10" />
-  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/vscode.svg" height="50" alt="VS Code logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="50" alt="GitHub logo"  />
-  <img width="10" />
-  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/html5.svg" height="50" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/css3.svg" height="50" alt="css logo"  />
+**Python • SQL • Power BI • Excel • HTML/CSS • Git • GitHub**
+
+## Find me
+
+<div align="left"
+  
+  [LinkedIn](https://www.linkedin.com/in/supriya-singh-6359a5346/) • [Portfolio](https://singhgkp2006.github.io/portfolio/)
+
 </div>
