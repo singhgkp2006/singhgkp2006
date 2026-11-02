@@ -18,4 +18,4 @@
 
 ## Find me
 
-[LinkedIn](https://linkedin.com/in/your-handle) · [Portfolio](https://your-portfolio-link)
+[LinkedIn](https://www.linkedin.com/in/supriya-singh-6359a5346/) · [Portfolio](https://singhgkp2006.github.io/portfolio/)
