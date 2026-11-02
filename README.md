@@ -1,26 +1,22 @@
-<h1 align="center">Hi 👋, I'm Supriya Singh</h1>
-<p align="center">I work with data: cleaning it, digging through it, and turning it into
-dashboards people can actually use. Right now I'm focused on landing my
-first data analyst role.</p>
+<p align="center"><img src="assets/bunny.svg" width="160"></p>
+<p align="center"><img src="assets/name.svg" width="340" alt="Supriya Singh"></p>
+<p align="center">I work with data: cleaning it, digging through it, and turning it into dashboards people can actually use.<br>Right now I'm focused on landing my first data analyst role.</p>
 
 ---
 
-## 👩‍💻 About Me
+## Skills
 
-- 🌱 I’m currently learning **Python, SQL, Power BI & Excel**
-- 🤝 I’m looking to collaborate on **Data Analysis & Visualization Projects**
-- 💬 Ask me about **Excel, SQL, Python, Power BI**
+| Analysis | Dashboards | Workflow |
+|:--|:--|:--|
+| ![Python](https://img.shields.io/badge/Python-7c5cd6?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-7c5cd6?style=flat-square&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-7c5cd6?style=flat-square&logo=microsoftexcel&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-7c5cd6?style=flat-square&logo=powerbi&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-7c5cd6?style=flat-square&logo=microsoftexcel&logoColor=white) | ![Git](https://img.shields.io/badge/Git-7c5cd6?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-7c5cd6?style=flat-square&logo=github&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-7c5cd6?style=flat-square&logo=html5&logoColor=white) |
 
----
+## Projects
 
-## Tools I use
-
-**Python • SQL • Power BI • Excel • HTML/CSS • Git • GitHub**
+| Project | What it is |
+|:--|:--|
+| **[Project name](https://github.com/your-username/repo)** | One line on what you found or built. `Power BI` |
+| **[Project name](https://github.com/your-username/repo)** | One line on what you found or built. `Python` |
 
 ## Find me
 
-<div align="left"
-  
-  [LinkedIn](https://www.linkedin.com/in/supriya-singh-6359a5346/) • [Portfolio](https://singhgkp2006.github.io/portfolio/)
-
-</div>
+[LinkedIn](https://linkedin.com/in/your-handle) · [Portfolio](https://your-portfolio-link)
