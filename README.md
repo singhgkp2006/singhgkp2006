@@ -1,5 +1,5 @@
-<p align="center"><img src="assets/bunny.svg" width="160"></p>
-<p align="center"><img src="assets/name.svg" width="340" alt="Supriya Singh"></p>
+<p align="center"><img src="assets/bunny.svg" width="100"></p>
+<p align="center"><img src="assets/name.svg" width="300" alt="Supriya Singh"></p>
 <p align="center">I work with data: cleaning it, digging through it, and turning it into dashboards people can actually use.<br>Right now I'm focused on landing my first data analyst role.</p>
 
 ---
@@ -14,8 +14,7 @@
 
 | Project | What it is |
 |:--|:--|
-| **[Project name](https://github.com/your-username/repo)** | One line on what you found or built. `Power BI` |
-| **[Project name](https://github.com/your-username/repo)** | One line on what you found or built. `Python` |
+| **[Youtube Analytics](https://github.com/singhgkp2006/youtube-analytics)** | Analyzes YouTube channel metrics. `Python` |
 
 ## Find me
 
